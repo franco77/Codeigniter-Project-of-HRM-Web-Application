@@ -1,0 +1,7 @@
+SQL - Introduction to Database and RDBMS, Introduction to SQL, DDL statements, DML Statements, 
+SQL Functions, Single  Row Functions, Having Clause, Order by Clause, TCL,DCL, Constrains, Joins,
+Subquery, Database objects, Views, Index, Sequence, Cluster, Top-N-Analysis, SQL Plus, Labs, Data Dictionary
+
+PL/SQL - Introduction to programming Logic, PL/SQL Block, First Program, Control statement, Looping, 
+SQL in PL/SQL, Cursors, Exceptions, Stored Procedures, Functions, Packages, Triggers, Row-Level Triggers, 
+Statement Level Triggers , Auditing Trigger, ISQL, Case Expressions, Rollup and Cube Operator, Additional Features of 10g and 11g.
