@@ -13,7 +13,7 @@
 					<div class=" row well"> 
 					
 						<div class="row pkdsearch">
-							 <legend class="form_title col-md-12">Track Salary Slip of All Employee </legend>
+							 <legend class="form_title col-md-12">Track Salary Slip of All Employees </legend>
 							<div class="col-md-5">
 								<div class="form-group row">
 									<label for="staticEmail" class="col-sm-4 col-form-label">Department </label>
